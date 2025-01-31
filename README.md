@@ -1,4 +1,4 @@
-# Mobile Sales Analysis
+ # Mobile Sales Analysis
 ### Overview:  
 This project analyzes sales data for mobile phones to derive actionable insights into sales performance, customer behavior, and market trends. By combining the power of SQL, Excel, and Power BI, the dashboard provides a comprehensive view of key metrics and patterns.
 
