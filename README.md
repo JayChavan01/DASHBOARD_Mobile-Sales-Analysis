@@ -39,7 +39,7 @@ This project analyzes sales data for mobile phones to derive actionable insights
    - KPIs, slicers, and filters for interactive exploration.
 
 ### Live Project:  
-View Dashboard: https://shorturl.at/DbqE3
+View Dashboard: https://shorturl.at/yuKJ9
 
 
 ### Images
